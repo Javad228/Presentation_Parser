@@ -1,0 +1,9 @@
+/.venv
+/input.pptx
+/input.spatial.json
+/input_previews
+/labeled_samples.pptx
+/labeled_samples.spatial.json
+/labeled_samples_previews
+/webdata
+/~$input.pptx
