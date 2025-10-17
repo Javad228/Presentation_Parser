@@ -1,0 +1,3 @@
+person1: text/titles/page_number/captions for images/links (maybe arrows/connectors overlap with person 3)
+person2: charts/tables/any kind of graph/shapes (basic)
+person3: logos/images/icons (maybe smart art like infographics)/ differentiation between badge/icon/brand logo
